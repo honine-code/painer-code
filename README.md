@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you! 👋
 
 <!--
 **painer-code/painer-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My tech Stack
 <div align=center><h1>📚 My Tech Stack</h1></div>
 
 <div align=center> 
